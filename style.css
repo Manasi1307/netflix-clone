@@ -39,7 +39,7 @@ nav {
 
 nav img {
     color: red;
-    width: 130px;
+    width: 180px;
     position: relative;
     z-index: 10;
 }
@@ -285,5 +285,11 @@ footer .questions {
 
         font-size: 32px;
     }
+    nav img {
+   
+    width: 120px;
+   
+}
+
 
 }
